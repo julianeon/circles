@@ -1,13 +1,11 @@
 # Title
 
-Concentric blinking circles.
+Image expander. An image expands from the center of the page, geting bigger and bigger, infinitely.
 
 # Purpose
 
-I wanted to use setState with setInterval, to set styling.
+This is an example of using setCounter in combination with inline styling with React. Very easy to understand.
 
-I also wanted to create concentric circles w CSS.
-
-The result shown in the code combines them in an obvious way.
+Truthfully, I thought it would be a fun project that could easily piggyback off the code I used for the circles project, so I wrote it up in a few minutes and here we are.
 
 
